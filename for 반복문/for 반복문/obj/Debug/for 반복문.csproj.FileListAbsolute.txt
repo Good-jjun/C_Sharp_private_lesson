@@ -1,0 +1,10 @@
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\bin\Debug\for 반복문.exe.config
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\bin\Debug\for 반복문.exe
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\bin\Debug\for 반복문.pdb
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\obj\Debug\for 반복문.csprojAssemblyReference.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\obj\Debug\for_반복문.Form1.resources
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\obj\Debug\for_반복문.Properties.Resources.resources
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\obj\Debug\for 반복문.csproj.GenerateResource.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\obj\Debug\for 반복문.csproj.CoreCompileInputs.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\obj\Debug\for 반복문.exe
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\새 폴더\for 반복문\for 반복문\obj\Debug\for 반복문.pdb

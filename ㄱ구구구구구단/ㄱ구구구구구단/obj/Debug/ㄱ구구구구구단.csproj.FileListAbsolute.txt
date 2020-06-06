@@ -1,0 +1,10 @@
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\bin\Debug\ㄱ구구구구구단.exe.config
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\bin\Debug\ㄱ구구구구구단.exe
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\bin\Debug\ㄱ구구구구구단.pdb
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\obj\Debug\ㄱ구구구구구단.csprojAssemblyReference.cache
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\obj\Debug\ㄱ구구구구구단.Form1.resources
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\obj\Debug\ㄱ구구구구구단.Properties.Resources.resources
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\obj\Debug\ㄱ구구구구구단.csproj.GenerateResource.cache
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\obj\Debug\ㄱ구구구구구단.csproj.CoreCompileInputs.cache
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\obj\Debug\ㄱ구구구구구단.exe
+C:\Users\chldl\Desktop\선배가 주신 C#\ㄱ구구구구구단\ㄱ구구구구구단\obj\Debug\ㄱ구구구구구단.pdb
