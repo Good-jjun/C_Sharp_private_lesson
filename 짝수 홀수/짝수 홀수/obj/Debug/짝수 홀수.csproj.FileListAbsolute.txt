@@ -1,0 +1,10 @@
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\bin\Debug\짝수 홀수.exe.config
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\bin\Debug\짝수 홀수.exe
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\bin\Debug\짝수 홀수.pdb
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\obj\Debug\짝수 홀수.csprojAssemblyReference.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\obj\Debug\짝수_홀수.Form1.resources
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\obj\Debug\짝수_홀수.Properties.Resources.resources
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\obj\Debug\짝수 홀수.csproj.GenerateResource.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\obj\Debug\짝수 홀수.csproj.CoreCompileInputs.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\obj\Debug\짝수 홀수.exe
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\짝수 홀수\짝수 홀수\obj\Debug\짝수 홀수.pdb
