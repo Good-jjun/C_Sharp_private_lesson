@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if문을 이용한 할인여부", "if문을 이용한 할인여부\if문을 이용한 할인여부.csproj", "{F8D58B6F-5BAB-4E50-8F6E-8DADCB487B0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8D58B6F-5BAB-4E50-8F6E-8DADCB487B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D58B6F-5BAB-4E50-8F6E-8DADCB487B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D58B6F-5BAB-4E50-8F6E-8DADCB487B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D58B6F-5BAB-4E50-8F6E-8DADCB487B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81701D81-6B8D-4EFF-88C9-57AD458332D9}
+	EndGlobalSection
+EndGlobal

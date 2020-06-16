@@ -1,0 +1,10 @@
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\bin\Debug\if문을 이용한 할인여부.exe.config
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\bin\Debug\if문을 이용한 할인여부.exe
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\bin\Debug\if문을 이용한 할인여부.pdb
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\obj\Debug\if문을 이용한 할인여부.csprojAssemblyReference.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\obj\Debug\if문을_이용한_할인여부.Form1.resources
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\obj\Debug\if문을_이용한_할인여부.Properties.Resources.resources
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\obj\Debug\if문을 이용한 할인여부.csproj.GenerateResource.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\obj\Debug\if문을 이용한 할인여부.csproj.CoreCompileInputs.cache
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\obj\Debug\if문을 이용한 할인여부.exe
+C:\Users\chldl\Desktop\깃허브 선배가 주신 C#\if문을 이용한 할인여부\if문을 이용한 할인여부\obj\Debug\if문을 이용한 할인여부.pdb

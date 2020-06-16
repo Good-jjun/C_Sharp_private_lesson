@@ -1,0 +1,9 @@
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\bin\Debug\20203202최준혁_실습예제 2번.exe.config
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\bin\Debug\20203202최준혁_실습예제 2번.exe
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\bin\Debug\20203202최준혁_실습예제 2번.pdb
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\obj\Debug\_20203202최준혁_실습예제_2번.Form1.resources
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\obj\Debug\_20203202최준혁_실습예제_2번.Properties.Resources.resources
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\obj\Debug\20203202최준혁_실습예제 2번.csproj.GenerateResource.cache
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\obj\Debug\20203202최준혁_실습예제 2번.csproj.CoreCompileInputs.cache
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\obj\Debug\20203202최준혁_실습예제 2번.exe
+C:\Users\chldl\Desktop\웹프로그래밍C#\13주차\20203202최준혁_실습예제 2번\20203202최준혁_실습예제 2번\obj\Debug\20203202최준혁_실습예제 2번.pdb
